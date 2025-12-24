@@ -1,7 +1,7 @@
 public class Student {
     public static void main(String[] args) { // Changed '(' to '{'
         int rollno = 1596;
-        String sname = "KRISHNA";
+        String sname = "CHAITU";
         String course = "PYTHON";
         System.out.println("LEARN HERE AND LEAD ANYWHERE!!"); // Added a closing double quote and semicolon
         System.out.println("My Name is: "+ sname);
